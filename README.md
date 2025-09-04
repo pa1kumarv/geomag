@@ -1,1 +1,1 @@
-Python-based software for real-time visualization and quality control at geomagnetic observatories.
+Real-time visualization and quality control at geomagnetic observatories using python Django.
